@@ -1,6 +1,6 @@
 gnodeb:
   controlif:
-    ip: "127.0.0.1"
+    ip: "tester.free5gc.org"
     port: 9487
   dataif:
     ip: "127.0.0.1"
@@ -29,7 +29,7 @@ ue:
     sd: "010203"
 
 amfif:
-  ip: "127.0.0.1"
+  ip: "amf.free5gc.org"
   port: 38412
 
 logs:
